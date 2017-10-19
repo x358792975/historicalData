@@ -1,0 +1,6 @@
+C:\Users\SeanCui\Documents\Visual Studio 2017\Projects\historicalData\historicalData\bin\Debug\historicalData.exe.config
+C:\Users\SeanCui\Documents\Visual Studio 2017\Projects\historicalData\historicalData\bin\Debug\historicalData.exe
+C:\Users\SeanCui\Documents\Visual Studio 2017\Projects\historicalData\historicalData\bin\Debug\historicalData.pdb
+C:\Users\SeanCui\Documents\Visual Studio 2017\Projects\historicalData\historicalData\obj\Debug\historicalData.csprojResolveAssemblyReference.cache
+C:\Users\SeanCui\Documents\Visual Studio 2017\Projects\historicalData\historicalData\obj\Debug\historicalData.exe
+C:\Users\SeanCui\Documents\Visual Studio 2017\Projects\historicalData\historicalData\obj\Debug\historicalData.pdb
